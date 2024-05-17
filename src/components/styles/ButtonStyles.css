@@ -1,0 +1,13 @@
+.custom-button {
+  background-color: #333333; /* Dark Gray */
+  color: #ffffff; /* White */
+}
+
+.custom-button:hover {
+  background-color: #555555; /* Medium Gray */
+}
+
+.custom-button:disabled {
+  background-color: #cccccc; /* Light Gray */
+  color: #ffffff; /* White */
+}
